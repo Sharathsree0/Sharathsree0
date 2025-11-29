@@ -1,36 +1,45 @@
-# Hi there, I'm Sharath! 👋
-
-I'm a passionate developer enthusiastic about building clean and scalable code.
-
----
-
-### 🔧 Technologies & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📊 Sharath's GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sharathsree0&show_icons=true&theme=radical&hide_border=true" alt="Sharath's GitHub Stats" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Sharath+S+👋;Frontend+Developer;MERN+Stack+Learner;Intern+at+Bridgeon;Building+'Health+Hive'+🏥" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathsree0&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<p>
+  <a href="https://github.com/sharathsree0">
+    <img src="https://komarev.com/ghpvc/?username=sharathsree0&label=Profile+Views&color=blue&style=flat" alt="ov" />
+  </a>
+</p>
+
+<br/>
+
+### 🚀 Mission Status
+> *Currently replicating major UI designs and building the backend for **Health Hive**.*
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,redux,js,html,css,bootstrap,nodejs,express,mongodb,git,github,vscode&perline=6" />
+
+<br/>
+<br/>
+
+<table align="center">
+  <tr>
+    <td>
+       <img src="https://github-readme-stats.vercel.app/api?username=sharathsree0&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharathsree0&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<a href="https://linkedin.com/in/sharath-s" target="_blank">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:sharathsree916@gmail.com">
+  <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
-
----
-
-### 📫 Connect with me
-<p align="left">
-<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sharathsree0" /></a>
-<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="sharathsree0" /></a>
-</p>
