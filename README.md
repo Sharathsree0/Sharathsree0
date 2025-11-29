@@ -4,11 +4,7 @@
 
 <br/>
 
-<p>
-  <a href="https://github.com/sharathsree0">
-    <img src="https://komarev.com/ghpvc/?username=sharathsree0&label=Profile+Views&color=blue&style=flat" alt="ov" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=sharathsree0&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
 
 <br/>
 
@@ -22,17 +18,10 @@
 <br/>
 <br/>
 
-<table align="center">
-  <tr>
-    <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=sharathsree0&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-    <td>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharathsree0&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=sharathsree0&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharathsree0&theme=tokyonight&hide_border=true" height="170" alt="Streak Stats" />
 
+<br/>
 <br/>
 
 <a href="https://linkedin.com/in/sharath-s" target="_blank">
@@ -41,8 +30,14 @@
 <a href="mailto:sharathsree916@gmail.com">
   <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</div>
+
+<br/>
+<br/>
+
 ### 🐍 My Contributions
+
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharathsree0/sharathsree0/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharathsree0/sharathsree0/output/github-contribution-grid-snake.svg">
