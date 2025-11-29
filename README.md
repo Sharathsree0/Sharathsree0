@@ -1,45 +1,44 @@
 <div align="center">
 
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Sharath+S+👋;Frontend+Developer;MERN+Stack+Learner;Intern+at+Bridgeon;Building+'Health+Hive'+🏥" alt="Typing SVG" /> -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Hi+there!+I'm+Sharath+Sree;MERN+Stack+Developer;Take+a+look+at+my+Linkedin;Connect+and+share+your+knowledg" alt="Sharath Header" />
+
+<br/><br/>
+
+<p>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sharathsree0&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharathsree0&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/sharath-s" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sharathsree916@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <br/>
-
-### 🚀 Mission Status
-> *Currently replicating major UI designs and building the backend for **Health Hive**.*
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,redux,js,html,css,bootstrap,nodejs,express,mongodb,git,github,vscode&perline=6" />
-
-<br/>
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=sharathsree0&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sharathsree0&theme=tokyonight&hide_border=true" height="170" alt="Streak Stats" />
-
-<br/>
-<br/>
-
-<a href="https://linkedin.com/in/sharath-s" target="_blank">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:sharathsree916@gmail.com">
-  <img src="https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/>
-<br/>
-
-### 🐍 My Contributions
-
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharathsree0/sharathsree0/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharathsree0/sharathsree0/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sharathsree0/sharathsree0/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/sharathsree0/sharathsree0/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
