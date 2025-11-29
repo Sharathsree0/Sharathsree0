@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/sharath-sree" target="_blank](https://linkedin.com/in/sharath-s" target="_blank)">
+  <a href="[https://linkedin.com/in/sharath-s-2634b5296/" target="_blank]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/_sharath_sree_" target="_blank">
