@@ -3,6 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Sharath+Sree;MERN+Stack+Developer;Let's+build+something+cool!;Connect+with+me+below!" alt="Sharath Header" />
 
 <br/>
+<br/>
 
 <p>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
