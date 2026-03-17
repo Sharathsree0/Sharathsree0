@@ -27,8 +27,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharathsree0&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharathsree0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
 
 <br/>
